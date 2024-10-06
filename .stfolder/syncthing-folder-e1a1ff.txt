@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: zhaye-u7npe
+created: 2024-09-07T19:38:53+05:30

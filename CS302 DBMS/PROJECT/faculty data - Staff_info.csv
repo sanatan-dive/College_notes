@@ -1,0 +1,43 @@
+Title,firstName,middleName,lastName,DEPARTMENT,EMAIL_ID,PHONE_NO,ROOM_NO,Graduate (UG),Postgraduate (PG),Doctorate (Ph.D.),AREA OF SPECIALIZATION
+Dr.,Manpreet,Singh,Gujral,CSE,principal@ccet.ac.in,0172-2750943,Principal_Office,B.E. (CSE),M.E. (CSE),Ph.D.,Computer Networks & Information Security
+Dr.,Sunil,K.,Singh,CSE,sksingh@ccet.ac.in,9818182457,A-415,B.E. (CSE),M.E. (CSE),Ph.D.,"High Performance Computing (HPC), LINUX/UNIX, Data Mining, Internet of Things (IoT), Machine Learning, Computer Architecture & Organization."
+Dr.,R.B.,,Patel,CSE,rbpatel@ccet.ac.in,9416932840,A-413,B.E. (CSE),M.E. (CSE),Ph.D.,Mobile and Distributed Computing and Sensor Networks
+Dr.,Varun,,Gupta,CSE,varungupta@ccet.ac.in,9646047091,A-109,B.Tech. (CSE),M.E. (CSE),Ph.D.,"Deep learning, Machine learning, and Software Engineering"
+Dr.,Dheerendra,,Singh,CSE,dsingh@ccet.ac.in,9876439071,A-414,B.E. (CSE),M.Tech. (CSE),Ph.D.,"Cloud Computing, Web Engineering, Database systems,"
+Dr.,Gulshan,,Goyal,CSE,gulshangoyal@ccet.ac.in,9417506206,A-425,B.E. (CSE),M.Tech. (CSE),Ph.D.,"Digital Image Processing, Theory of Computation, Compiler Design, Design and Analysis of Algorithms, Research Methodology, Discrete Structures, Statistical Models for Computer Science, Software Engineering , C, C++, MATLAB."
+Dr.,Sunita,,,CSE,sunita@ccet.ac.in,9041059379,A-424,B.E. (CSE),M.E. (CSE),Ph.D.,"Design & Analysis of Algorithm, Data Structures"
+Dr.,Amit,,Chhabra,CSE,amitchhabra@ccet.ac.in,9888623825,A-421,B.E. (CSE),M.E. (CSE),Ph.D.,"Theory Of Computation, Compiler Design, Discrete Structure, Design , Analysis and Algorithm, Wireless Networks"
+Dr.,Ankit,,Gupta,CSE,ankit@ccet.ac.in,9412314479,A-423,B.E. (CSE),M.Tech. (CSE),Ph.D.,"Artificial Intelligence, Web Intelligence, Web Analytics, Multi Criteria Decision Making, Information Retrieval "
+Dr.,Sarabjeet,,Singh,CSE,ssingh@ccet.ac.in,9463739413,A-426,B.E. (CSE),M.E. (CSE),Ph.D.,"High Performance Computing, Computer Graphics, C, C++, CUDA-C."
+Dr.,Sudhakar,,Kumar,CSE,sudhakar@ccet.ac.in,8434518635,A-416,B.Tech. (CSE),M.Tech. (CSE),Ph.D.,"High Performance Computing (Algorithm), Compiler Optimization, Machine Learning, Artificial Intelligence, Human Computer Interaction"
+Er.,Animesh,,Singh,CSE,animeshsingh@ccet.ac.in,9584035345,A-422,B.E. (CSE),M.Tech. (CSE),Pursuing Ph.D.,"Image Processing, Software Engg., Computer System Architecture, C/C++"
+Dr.,Jatinder,,Madan,MECH,jatindermadan@ccet.ac.in,9041291970,B-308,B.E.,M.E.,Ph.D.,"Sustainable Design and Manufacturing, Computer-aided Design and Manufacturing (CAD/CAM), Design Automation, Design for Manufacture and Assembly"
+Dr.,Vettivel,S C,,MECH,scvettivel@ccet.ac.in,9865822376,B-310,B.E. (Mech.),M.E. (Prod. Engineering),Ph.D. (Mech. Engineering),"Powder Metallurgy, Nano Composite, Smart Manufacturing, Tribology, Coating of Materials and Production Engineering ."
+Dr.,Radhey,,Sham,MECH,radheysham@ccet.ac.in,9888040982,B-325,B.E. (Mech. Eng.),M.E. (CAD/CAM & Robotics),Ph.D. (Mech. Engineering),"Thermal Engineering , CRYOGENICS and IC Engines."
+Dr.,Mukesh,,Kumar,MECH,mukeshkumar@ccet.ac.in,9478420561,B-417,B.Tech. (Mech.),M.E. (Prod. Engineering),Ph.D. (Mech. Engineering),Production Engineering
+Er.,Vinod,,Chauhan,MECH,vinodchauhan@ccet.ac.in,9466736896,B-314,B.Tech. (Mech.),M.E. (Mech.),-,"Design of Mechanical Equipments, Mechanics of Mateials, Theory of Machines"
+Dr.,Ashwani,,Kumar,MECH,ashwanikumar@ccet.ac.in,9872823250,B- 301,B.Tech. (Mech. Eng.),M.E. (Mech. Engineering),Ph.D.,"Thermal ,Design and M.R. Fluids"
+Mr.,Rajiv,,Kumar,MECH,rajivkumar@ccet.ac.in,9877887402,B-317,-,M.Tech.,Pursuing Ph.D.,Machine Design & Manufacturing
+,Nipun,,Sharma,MECH,nipun@ccet.ac.in,9877726260,"Department of Mechanical Engineering , CCET, Sector- 26, Chandigarh",B.Tech. (Mech.),M.Tech. (Mech. & M/c Design),Notification pending,Machine Design
+Dr.,Davinder,Singh,Saini,ECE,dssaini@ccet.ac.in,8146730369,B-315,B.E.,M.Tech.,Ph.D.,"MIMO, OFDM, CDMA, Wireless Sensor Network, Wireless Communication"
+Dr.,Krishna,Gopal,Sharma,ECE,kgsharma@ccet.ac.in,9414403565,"H.No. - 783, Sector - 43/A, Chandigarh",B.E.,M.Tech.,Ph.D.,Low Power VLSI Design.
+Dr.,Bhasker,,Gupta,ECE,bgupta@ccet.ac.in,9855908643,"H.No-B-298, Guru Nanak Colony, Sangrur",B.E.,M.E.,Ph.D.,"Wireless Communication, FPGA System Design"
+Dr.,Anil,,Kumar,ECE,anilrose@ccet.ac.in,9416234853,A-314,B.E.,M.E.,Ph.D.,"Wireless Sensor Network, Soft Computing."
+Dr.,Parvinder,,Kaur,ECE,pkaur@ccet.ac.in,8295688911,,B.Tech. (Hons.),M.E. (with distinction),Ph.D.,"Soft Computing, Signal Processing, Nature Inspired Computing, Optimization Algorithms"
+Dr.,Shilpa,,Jindal,ECE,shilpajindal@ccet.ac.in,9463328881,A-324,B.Tech. (Hons.),M.Tech.,Ph.D.,"Communication Engineering, Optical Engineering."
+Dr.,Dinesh,,Sharma,ECE,dsharma@ccet.ac.in,9671721850,A-323,-,M.Tech.,Ph.D.,Wireless Communication and Antenna Design.
+Dr.,Irfan,Ahmad,Khan,ECE,iakhan@ccet.ac.in,7835847022,A-323,B.E. (E&C),M.Tech. (EC),Ph.D. (EEE),"Digital systems, Power Electronics & Renewable Energy Conversion System"
+Dr.,Sarita,,Sharma,ECE,saritasharma@ccet.ac.in,9988292611,A-326,B.Tech.,M.Tech. (ECE),Ph.D.,"Microwave Devices and Circuits, Remote Sensing"
+,Hardeep,,Saini,ECE,hsaini@ccet.ac.in,9914611106,A-321,B.Tech.,M.Tech. (ECE),Pursuing Ph.D.,Digital Image Processing
+Dr.,Anil,Kumar,Vaghmare,ECE,anilvaghmare@ccet.ac.in,6284561607,A-303,B.Tech.,M.Tech.,Ph.D.,"Signal processing, Speech processing and VLSI"
+Dr.,Rajesh,,Kumar,CIVIL,rajeshaastha@ccet.ac.in,9478548248,B-305,B.E. (Civil Eng.),M.E. (Structural Engineering),Ph.D. (IIT Roorkee),"Structural Engineering (Structure Analysis & Design, SCC and RAC"
+Dr.,Aradhana,,Mehta,CIVIL,amehta@ccet.ac.in,8054977561,,B.E. (Civil Eng.),M.E. (Structural Engineering),Ph.D. (IIT Delhi),Structural Engineering (Box girder Bridges & Concrete)
+Mohammad,Sakib,Perwez,Khan,CIVIL,sakib786@ccet.ac.in,7839452836,B-418,B.Tech. (Civil Eng.),M.Tech. (Structural Engineering),-,"Structural Engineering, Bridge Engineering, Computer Aided Design"
+,Poonam,,,CIVIL,poonam@ccet.ac.in,8968399719,B-318,B.Tech. (Civil Eng.),M.Tech. (Structural Engineering),-,"Structural Engineering (Seismic-Resistant Design of Structures, Repair and Retrofitting of Structures, Sustainable Development)"
+,Anil,,Kumar,CIVIL,anilkumar@ccet.ac.in,9816290720,B-326,B.Tech. (Civil Eng.),M.Tech. (Structural Engineering),-,"Structural Engineering (Blast- and Earthquake-Resistant Structures, Structural Vibration Control, Smart Structures, Uncertainty Quantification and Reliability in Civil Engineering)"
+,Karuna,,Sharma,CIVIL,karunasharma@ccet.ac.in,8283833589,B-204,B.E. (Civil),M.E. (Transportation Engineering),-,"Highway Engineering, Capacity Builing and Pavement design"
+,Arfat,,Ahmed,CIVIL,arfat@ccet.ac.in,8860736206,,B.Tech. (Civil Eng.),M.Tech. (Computer Aided Structural Engineering),-,"FEM programming, Environmental Engineering domain."
+Dr.,Varun,,Gupta,Applied Sciences,varungupta@ccet.ac.in,9646047091,A-109,B.Tech. (CSE),M.E. (CSE),Ph.D.,"Deep learning, Machine learning and Software Engineering."
+Dr.,Parul,,Aggarwal,Applied Sciences,parul@ccet.ac.in,8437911722,A-115,-,"M.Sc. (Math), B.Ed",UGC-NET,Fluid Dynamics.
+Dr.,Manveen,,Kaur,Applied Sciences,manveenkaur@ccet.ac.in,9988957007,"Ground floor, Block-A, Applied Science Department, CCET(Degree Wing)",-,M.Sc. (Physics),Ph.D.,"Engineering Physics, nanomaterials"
+Ms.,Neha,,,Applied Sciences,neha@ccet.ac.in,9646614209,"Chemistry Lab, Block-A, Applied Science Department, CCET(Degree Wing)",-,M.Sc. HS,UGC-NET-LS,Organic chemistry.

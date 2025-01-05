@@ -19,27 +19,33 @@ void beginInsert(int item) {
         return;
     }
 
-    ptr->data = item;
+    ptr->data = item;///  c cvv
     ptr->next = head; // Insert at the beginning
     head = ptr; 
     cout << "Node inserted at the beginning with value: " << ptr->data << endl;
 }
 
 void lastInsert(int val){
-    ND* newNode = new ND;  // Create a new node
-    newNode->data = val;
-    newNode->next = nullptr;
 
-    if (head == nullptr) { // If the list is empty, new node becomes the head
+    
+    ND* newNode = new ND;  // Create a new node
+
+      if (head == nullptr) { // If the list is empty, new node becomes the head
         head = newNode;
         cout << "Node inserted as the only element with value: " << val << endl;
         return;
     }
 
-    ND* temp = head;
+  ND* temp = head;
     while (temp->next != nullptr) {
         temp = temp->next;
     }
+
+    newNode->data = val;
+    newNode->next = nullptr;
+
+
+  
     
     temp->next = newNode;
     cout << "Node inserted at the end with value: " << newNode->data << endl;
